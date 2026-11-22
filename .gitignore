@@ -1,0 +1,5 @@
+.env
+stock.json
+verify.json
+__pycache__/
+*.pyc
